@@ -5,4 +5,8 @@ is the sun getting colder?
 is the sun getting bigger?
 
 PedroGrijo comment's
+
 conflicting comment
+
+extra comment's pre merge
+>>>>>>> 2d3ac22d147c30adc6f050805e6672f39367bf68
